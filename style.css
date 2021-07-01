@@ -1,0 +1,16 @@
+h1 {
+    font-size: 80px;
+}
+p {font-size: 80px;
+      }
+button {
+    width: 100px;
+    height: 40px;
+    border-radius: 20%;
+    border-color:black
+}
+section {
+    width: 400px;
+    height: 200px;
+    
+}
