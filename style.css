@@ -1,16 +1,38 @@
-h1 {
-    font-size: 80px;
-}
-p {font-size: 80px;
-      }
-button {
-    width: 100px;
-    height: 40px;
-    border-radius: 20%;
-    border-color:black
-}
 section {
-    width: 400px;
-    height: 200px;
-    
+    background-color: white;
+    padding-left: 400px;
+
 }
+
+div {
+
+background-color: rgb(177, 171, 171);
+height: 400px;
+padding: 100px; 
+width: 400px; 
+text-align: center;
+font-family: sans-serif; 
+}
+
+h1{font-size: 60px;
+    margin: 0px 0px 50px 0;
+}
+
+p{
+    font-size: 70px;
+    font-weight: bold;
+    margin: 5px 0px 50px 0px;
+}
+
+button{
+    font-size: 13px;
+    border-radius: 20%;
+    border: 2px solid;
+    font-weight: 300;
+    margin: 0 10px 0 0;
+    padding: 4px 10px 4px 10px;
+}
+
+#increase{
+    border-color: blue;
+} 
